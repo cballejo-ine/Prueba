@@ -6,4 +6,4 @@ library(tidyverse)
 datos <- read_csv()
 
 
-
+# ksdgfsdgfhgdfhsdjf
